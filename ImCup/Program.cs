@@ -10,6 +10,7 @@ namespace ImCup
     {
         static void Main(string[] args)
         {
+            //
         }
     }
 }
